@@ -1,0 +1,3 @@
+Şuanda aktif program çalışmakta olup, bilgisayardan seçilen bir dosyayı MP3300iec kontrolcüsünün belirtilen dosya yoluna atmaktadır.
+Gönderilecek dosya ismi önemlidir. Boşluk karakteri içeren dosyalar daha sonradan silinememektedir.
+Gönderilen dosya çeşitlerinde .gcode ve .txt denenmiştir.
